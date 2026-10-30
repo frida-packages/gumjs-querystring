@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/frida/gumjs-querystring.git",
-    "web": "https://github.com/frida/gumjs-querystring"
+    "url": "git://github.com/frida-packages/gumjs-querystring.git",
+    "web": "https://github.com/frida-packages/gumjs-querystring"
   },
   "bugs": {
-    "url": "http://github.com/frida/gumjs-querystring/issues/"
+    "url": "http://github.com/frida-packages/gumjs-querystring/issues/"
   },
   "license": "MIT"
 }
